@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c84f1c-4707-4bf2-9a9e-bfd839542a17" name="Default Changelist" comment="" />
+    <list default="true" id="f1c84f1c-4707-4bf2-9a9e-bfd839542a17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/READE.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.BufferTest.test01">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -82,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611752028074</updated>
-      <workItem from="1611752033142" duration="1938000" />
+      <workItem from="1611752033142" duration="2345000" />
     </task>
     <servers />
   </component>
@@ -126,10 +133,10 @@
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state x="208" y="25" width="1024" height="817" key="SettingsEditor/0.25.1440.817@0.25.1440.817" timestamp="1611752526052" />
-    <state x="203" y="155" key="Vcs.Push.Dialog.v2" timestamp="1611753950781">
+    <state x="203" y="155" key="Vcs.Push.Dialog.v2" timestamp="1611754047049">
       <screen x="0" y="25" width="1440" height="813" />
     </state>
-    <state x="203" y="155" key="Vcs.Push.Dialog.v2/0.25.1440.813@0.25.1440.813" timestamp="1611753950781" />
+    <state x="203" y="155" key="Vcs.Push.Dialog.v2/0.25.1440.813@0.25.1440.813" timestamp="1611754047049" />
     <state x="433" y="317" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1611752193464">
       <screen x="0" y="25" width="1440" height="814" />
     </state>
