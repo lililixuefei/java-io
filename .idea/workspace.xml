@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1neYTEOg96sRQnjvl6QvTgllqSM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -20,6 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,12 +72,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611752028074</updated>
-      <workItem from="1611752033142" duration="1318000" />
+      <workItem from="1611752033142" duration="1620000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="25" width="1024" height="817" key="#Project_Structure" timestamp="1611752435507">
@@ -100,17 +116,30 @@
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state x="208" y="25" width="1024" height="817" key="SettingsEditor/0.25.1440.817@0.25.1440.817" timestamp="1611752526052" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1611753625127">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.25.1440.813@0.25.1440.813" timestamp="1611753625127" />
     <state x="433" y="317" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1611752193464">
       <screen x="0" y="25" width="1440" height="814" />
     </state>
     <state x="433" y="317" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.25.1440.814@0.25.1440.814" timestamp="1611752193464" />
+    <state x="421" y="175" width="597" height="490" key="find.popup" timestamp="1611753472929">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="421" y="175" width="597" height="490" key="find.popup/0.25.1440.813@0.25.1440.813" timestamp="1611753472929" />
+    <state x="505" y="213" key="git4idea.merge.GitPullDialog" timestamp="1611753558842">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="505" y="213" key="git4idea.merge.GitPullDialog/0.25.1440.813@0.25.1440.813" timestamp="1611753558842" />
     <state x="126" y="40" key="new project wizard" timestamp="1611752138520">
       <screen x="0" y="25" width="1440" height="814" />
     </state>
     <state x="126" y="40" key="new project wizard/0.25.1440.814@0.25.1440.814" timestamp="1611752138520" />
-    <state x="385" y="68" width="670" height="676" key="search.everywhere.popup" timestamp="1611752679581">
-      <screen x="0" y="25" width="1440" height="817" />
+    <state x="385" y="68" width="670" height="673" key="search.everywhere.popup" timestamp="1611753462991">
+      <screen x="0" y="25" width="1440" height="813" />
     </state>
+    <state x="385" y="68" width="670" height="673" key="search.everywhere.popup/0.25.1440.813@0.25.1440.813" timestamp="1611753462991" />
     <state x="385" y="68" width="670" height="676" key="search.everywhere.popup/0.25.1440.817@0.25.1440.817" timestamp="1611752679581" />
   </component>
 </project>
